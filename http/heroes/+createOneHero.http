@@ -1,0 +1,27 @@
+POST http://localhost:3000/api/heroes HTTP/1.1
+Content-Type: application/json
+
+{
+    "nickName": "Spider-Woman",
+    "realName": "Джессика Дренгю",
+    "originDescription": "супер-героиня из вселенной Ultimate Marvel, где является женским клоном Человека-Паука под именем Джессика Дрю"
+}
+
+# {
+#     "nickName": "Spider-Woman",
+#     "realName": "Джессика Дрю",
+#     "originDescription": "супер-героиня из вселенной Ultimate Marvel, где является женским клоном Человека-Паука под именем Джессика Дрю"
+# }
+
+# {
+#     "nickName": "Мистер Фантастик",
+#     "realName": "Dr. Reed Richards",
+#     "originDescription": "является изобретателем космического корабля, который подвергся мощному облучению радиации, давшей Фантастической четвёрке их суперспособности"
+    
+# }
+
+   # {
+   # "nickName": "Невидимая леди",
+   # "realName": "Susan Sue Storm-Richards",    
+   # "originDescription": "является участницей-основательницей Фантастической четвёрки, а также первым супергероем женского пола"
+   # }
